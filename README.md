@@ -33,6 +33,7 @@ Always curious, always building.
 
 ## Reach Out To Me
 
+<a href="https://hari2k7.github.io/portfolio/"><img src="https://raw.githubusercontent.com/hari2k7/portfolio/refs/heads/main/images/icon.jpg" alt="Portfolio" height="48" width="48" ></a>
 <a href="https://www.linkedin.com/in/hariharasudhan-d-2k7/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
 <a href="mailto:hari082007@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="https://www.instagram.com/hariharasudhan08/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
