@@ -19,7 +19,7 @@ Always curious, always building.
 
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,md,html,git,github,arduino,powershell,matlab,ps)
+![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,figma,md,html,git,github,arduino,powershell,matlab,ps)
 
 
 ## GitHub Contributions Graph
