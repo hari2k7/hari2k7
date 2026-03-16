@@ -1,28 +1,32 @@
 ## 👋 About Me
 
-Hi, I'm **Hariharasudhan D** 👨‍💻  
+## GREATEST TOPPER OF ALL TIME (GtOAT)
+
+## TVK in blood (developing website for TVK)   
+
+Hi, I'm **Hariharasudhan D the great coder not a developer a software developer >>>>>>>!!!!!!!!!1 i got 50 / 50 in uid exam in midsem also in oops midsem 50/50!!!!!!!!** 👨‍💻  
 A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**.
 
-- 🌱 Currently learning **Data Structures & Algorithms** and strengthening core programming concepts  
-- 💻 Comfortable with **Python, Java, and C++**  
-- 🌐 Building **frontend web projects** using HTML, CSS, and JavaScript  
-- 🧠 Exploring **backend development** and fundamentals of **full-stack development**  
-- 🚀 Actively working on **mini projects** and sharing my learning journey on GitHub  
+- 🌱 Currently not learning **Data Structures & Algorithms** and strengthening core programming concepts  
+- 💻 Not Comfortable with **Python, Java, and C++**  
+- 🌐 Not Building **frontend web projects** using HTML, CSS, and JavaScript  
+- 🧠 Not Exploring **backend development** and fundamentals of **full-stack development**  
+- 🚀 Not Actively working on **mini projects** and sharing my learning journey on GitHub  
 
-I enjoy turning ideas into code, improving through practice, and continuously learning new technologies.  
+I dont enjoy turning ideas into code, improving through practice, and continuously learning new technologies.  
 Always curious, always building.
 
 
-## Programming Languages & Frameworks
+## Programming Languages & Frameworks(just flexing)
 
 ![Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js)  
 
-## Tools
+## Tools(i know all the tools in the world)
 
 ![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,figma,md,html,git,github,arduino,powershell,matlab,ps)
 
 
-## GitHub Contributions Graph
+## GitHub Contributions Graph(in my old id i had 10000 day if contribution )
 
 [![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari2k7&theme=github-dark)](https://github.com/hari2k7)
 
