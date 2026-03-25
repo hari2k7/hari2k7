@@ -10,7 +10,7 @@ A **Computer Science Engineering student** with a strong interest in **software 
 - 🚀 Actively working on **mini projects** and sharing my learning journey on GitHub  
 
 I enjoy turning ideas into code, improving through practice, and continuously learning new technologies.  
-Always curious, always building.
+<b>Always curious, always building</b>.
 
 
 ## Programming Languages & Frameworks
@@ -28,8 +28,9 @@ Always curious, always building.
 
 
 ## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=hari2k7&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 
-[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=hari2k7&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=hari2k7&theme=github_dark_blue)](https://git.io/streak-stats)
 
 ## Reach Out To Me
 
@@ -37,3 +38,11 @@ Always curious, always building.
 <a href="https://www.linkedin.com/in/hariharasudhan-d-2k7/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
 <a href="mailto:hari082007@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="https://www.instagram.com/hariharasudhan08/">![Instagram](https://skillicons.dev/icons?i=instagram)</a>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hari2k7&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
