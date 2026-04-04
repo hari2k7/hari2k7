@@ -30,7 +30,7 @@ I enjoy turning ideas into code, improving through practice, and continuously le
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hari2k7&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 
-[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=hari2k7&theme=github_dark_blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=hari2k7&theme=dark)](https://git.io/streak-stats)
 
 ## Reach Out To Me
 
