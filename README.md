@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 Hi, I'm **Hariharasudhan D** 👨‍💻  
-A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**.
+A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**. I am also intrested in **Open Source**
 
 - 🌱 Currently learning **Data Structures & Algorithms** and strengthening core programming concepts  
 - 💻 Comfortable with **Python, Java, and C++**  
