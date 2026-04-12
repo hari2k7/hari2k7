@@ -15,11 +15,11 @@ I enjoy turning ideas into code, improving through practice, and continuously le
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js)  
+![Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js,nodejs,express)  
 
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,figma,md,html,git,github,arduino,powershell,matlab,ps)
+![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,figma,md,html,postman,npm,git,github,arduino,powershell,matlab,ps)
 
 
 ## GitHub Contributions Graph
