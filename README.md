@@ -1,6 +1,7 @@
-## 👋 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+👋;I'm+Hariharasudhan" />
+</h1>
 
-Hi, I'm **Hariharasudhan D** 👨‍💻  
 A **Computer Science Engineering student** with a strong interest in **software development** and **problem-solving**. I am also intrested in **Open Source**
 
 - 🌱 Currently learning **Data Structures & Algorithms** and strengthening core programming concepts  
