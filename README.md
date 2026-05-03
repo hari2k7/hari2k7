@@ -16,7 +16,7 @@ I enjoy turning ideas into code, improving through practice, and continuously le
 
 ## Programming Languages & Frameworks
 
-![Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js,nodejs,express,react,mongodb,bash)  
+![Skills](https://skillicons.dev/icons?i=py,java,cpp,html,css,js,nodejs,express,react,mongodb,tailwind,bash)  
 
 ## Tools
 
