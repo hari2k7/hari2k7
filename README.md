@@ -20,7 +20,7 @@ I enjoy turning ideas into code, improving through practice, and continuously le
 
 ## Tools
 
-![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,figma,md,html,postman,npm,vite,git,github,arduino,powershell,matlab,ps)
+![My Tools](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bootstrap,figma,md,html,postman,npm,vite,electron,git,github,arduino,powershell,matlab,ps)
 
 
 ## GitHub Contributions Graph
