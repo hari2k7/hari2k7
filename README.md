@@ -6,9 +6,7 @@ A **Computer Science Engineering student** with a strong interest in **software 
 
 - 🌱 Currently learning **Data Structures & Algorithms** and strengthening core programming concepts  
 - 💻 Comfortable with **Python, Java, and C++**  
-- 🌐 Building **frontend web projects** using HTML, CSS, and JavaScript  
-- 🧠 Exploring **backend development** and fundamentals of **full-stack development**  
-- 🚀 Actively working on **mini projects** and sharing my learning journey on GitHub  
+- 🌐 Building **full stack web projects**
 
 I enjoy turning ideas into code, improving through practice, and continuously learning new technologies.  
 <b>Always curious, always building</b>.
