@@ -80,7 +80,7 @@ A responsive portfolio website showcasing my projects, skills, and achievements.
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://hari2k7.github.io/portfolio/" target="_blank">
     <img src="https://raw.githubusercontent.com/hari2k7/portfolio/refs/heads/main/images/icon.jpg" alt="Portfolio" height="48" width="48" />
   </a>
