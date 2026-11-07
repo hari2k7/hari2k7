@@ -1,19 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello+👋;I'm+Hariharasudhan;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello+👋;I'm+Hariharasudhan" />
 </h1>
 
 ## About Me
 
-A passionate **Computer Science Engineering student** interested in building impactful software and exploring modern technologies.  
-I enjoy developing **full stack applications**, solving problems through code, and contributing to **open source projects**.
+I'm a **Computer Science Engineering student** passionate about software development and building practical solutions through technology. I enjoy working across the stack, exploring backend systems, and continuously improving my problem-solving skills.
 
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Building projects using the **MERN Stack**
-- 🚀 Interested in **Web Development, AI-powered apps, and Open Source**
-- 🧠 Practicing **problem-solving** and improving development skills
-- ⚡ Love experimenting with new technologies and turning ideas into real projects
+- Developing full-stack applications and exploring new technologies.
+- Strengthening my **Data Structures & Algorithms** and problem-solving skills.
+- Exploring backend engineering, database design, and system architecture.
+- Interested in **AI-powered applications** and modern technologies.
+- Exploring open-source development and learning through hands-on projects.
 
-<b>Always learning, always building.</b>
+**Building, learning, and getting better with every project.**
 
 ---
 
@@ -21,46 +20,19 @@ I enjoy developing **full stack applications**, solving problems through code, a
 
 ### Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=py,java,cpp,js)
+![Languages](https://skillicons.dev/icons?i=py,java,c,cpp,js,ts)
 
 ### Frontend Development
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,vite)
 
 ### Backend Development
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis)
 
 ### Tools & Platforms
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,bash,powershell,pycharm,idea,eclipse,arduino,matlab,vercel,render)
-
----
-
-## Featured Projects
-
-### QuickNotes
-A lightweight and responsive note-taking web application that allows users to create, organize, and manage notes efficiently with a clean and user-friendly interface.
-
-### ChefGPT
-An AI-powered recipe generator that suggests recipes based on ingredients provided by users.
-
-### Personal Portfolio
-A responsive portfolio website showcasing my projects, skills, and achievements.
-
----
-
-## Concepts & Technologies
-
-- MVC Architecture  
-- REST APIs  
-- JWT Authentication  
-- Responsive Web Design  
-- CRUD Operations  
-- Git & GitHub Workflow  
-- API Integration  
-- Component-Based Development
-- Deployment using Vercel & Render
 
 ---
 
