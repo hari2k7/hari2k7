@@ -8,50 +8,27 @@
   <tr>
     <td valign="middle">
 
-```java
-public class Hariharasudhan {
+```bash
+hari@dev:~$ whoami
+Software Engineer | Developer | Problem Solver
 
-    private final String name      = "Hariharasudhan";
-    private final String role      = "Software Engineer";
-    private final String portfolio = "https://hari2k7.github.io/portfolio/";
+hari@dev:~$ ls interests/
+full-stack/  dsa/  ai-ml/  open-source/  new-technologies/
 
-    public void learn() {
-        System.out.println("Learning something new");
-    }
+hari@dev:~$ cat mission.txt
+Build things that matter.
+Learn things that challenge me.
+Improve with every iteration.
 
-    public void code() {
-        System.out.println("Writing clean code");
-    }
+hari@dev:~$ status
+[ BUILDING ] [ LEARNING ] [ EVOLVING ]
 
-    public void deploy() {
-        System.out.println("Shipping to production");
-    }
-
-    public void currentlyBuilding() {
-        System.out.println("Something awesome");
-    }
-
-    public boolean isOpenToCollab() {
-        return true; // Internships, projects & open source
-    }
-
-    public static void main(String[] args) {
-        Hariharasudhan hari = new Hariharasudhan();
-        hari.currentlyBuilding();
-
-        while (true) {
-            hari.learn();
-            hari.code();
-            hari.deploy();
-            // repeat 🔁
-        }
-    }
-}
+hari@dev:~$ █
 ```
 
 </td>
     <td align="center" valign="middle" width="260">
-      <img src="https://github.com/user-attachments/assets/4ff0e676-4ccd-4b9c-a0ae-adb195446f0c" width="240" alt="Developer banner"/>
+      <img src="https://github.com/user-attachments/assets/44aac3a9-526a-4f98-9743-85096ce29709" width="240" height="330" alt="Developer banner"/>
     </td>
   </tr>
 </table>
@@ -62,12 +39,12 @@ public class Hariharasudhan {
 
 ### Programming Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,react,next,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,postgres,redis,haskell&perline=10" alt="Languages and Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,react,next,tailwind,nodejs,express,mongodb,mysql,postgres,redis,haskell&perline=10" alt="Languages and Frameworks"/>
 </p>
 
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,supabase,npm,bash,powershell,pycharm,idea,eclipse,arduino,matlab,vercel&perline=10" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,supabase,npm,vite,bootstrap,bash,powershell,pycharm,idea,eclipse,linux,arduino,matlab,vercel&perline=10" alt="Tools"/>
 </p>
 
 ---
@@ -92,4 +69,4 @@ public class Hariharasudhan {
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:112240,100:0a192f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:112240,100:0a192f&height=90&section=footer" width="100%"/>
